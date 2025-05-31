@@ -63,24 +63,5 @@ This project explores the relationship between social media sentiment and stock 
   - Matplotlib (Visualization)
   - WordCloud (Text Analysis)
 
-## Future Enhancements
-1. Extended data collection period
-2. Multi-company analysis
-3. Advanced sentiment analysis techniques
-4. Real-time prediction capabilities
-5. Integration of additional market indicators
-
-## Setup and Installation
-1. Clone the repository
-2. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Configure Twitter API credentials
-4. Run the main script:
-   ```bash
-   python main.py
-   ```
-
 ## Note
 This project serves as a proof of concept for sentiment-based stock prediction. While the model provides insights into market sentiment, it should not be used as the sole basis for investment decisions.
